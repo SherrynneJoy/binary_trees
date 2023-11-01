@@ -1,6 +1,7 @@
 #include "binary_trees.h"
 #include <stdlib.h>
 #include <stdio.h>
+#include <stddef.h>
 
 /**
  * getMax - returns the maximum of two numbers
